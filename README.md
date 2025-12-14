@@ -36,4 +36,4 @@
 
 ## 📫 **Connect with me**  
 - GitHub: [Baek-su-yeon](https://github.com/Baek-su-yeon)
-- mail: bsy401@naver.com
+- mail: bsyeeon@gamil.com (or bsy401@naver.com)
