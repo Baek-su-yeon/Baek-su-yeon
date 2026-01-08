@@ -6,7 +6,7 @@
   - Research focus on **computer vision**  
   - Presented at 1 international and 8 domestic conferences, received 3 awards  
 - Research Scientist, National Institute of Fisheries Science (2023–2025)  
-- Currently in the **Samsung Software & AI Academy (SSAFY)** program (2025–)
+- Currently in the **Samsung Software & AI Academy (SSAFY)** program (2025.07–)
 
 ## 🔬 **Research & Projects**  
 
