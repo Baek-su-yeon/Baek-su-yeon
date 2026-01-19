@@ -29,7 +29,6 @@
 
 ## ✨ **Interests**  
 - Computer Vision & AI Deployment
-- Web Development (Front & Backend)
 
 
 ## 📫 **Connect with me**
