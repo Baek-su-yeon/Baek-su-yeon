@@ -10,13 +10,13 @@
 
 ## 🔬 **Research & Projects**  
 
-- **Fishnet Damage Detection Algorithm** 🐟  
+- **Fishnet Damage Detection Algorithm**
   Developed a mesh-hole grouping algorithm to detect irregular damages in aquaculture nets, minimizing perspective distortion in underwater environments.
   - [repo](https://github.com/Baek-su-yeon/Mesh_Hole_Grouping)
-- **GAN-based Welding Molten Pool Prediction** 🔥  
+- **GAN-based Welding Molten Pool Prediction** 
   Predicted molten pool shapes under varying angles using generative adversarial networks.
   - [repo](https://github.com/Baek-su-yeon/molten_pool_predict)
-- **Multipurpose Fish Monitoring System** 🌊  
+- **Multipurpose Fish Monitoring System** 
   Designed an embedded system and buoy device for remote fish school and marine environment monitoring (1 patent registered).
 
 
