@@ -32,4 +32,4 @@
 
 
 ## 📫 **Connect with me**
-- mail: bsyeeon@gamil.com (or bsy401@naver.com)
+- mail: bsyeeon@gamil.com
