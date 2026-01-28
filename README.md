@@ -8,7 +8,7 @@
 - Research Scientist, National Institute of Fisheries Science (2023–2025)  
 - Currently in the **Samsung Software & AI Academy (SSAFY)** program (2025.07–)
 
-## 🔬 **Research & Projects**  
+## **Research & Projects**  
 
 - **Fishnet Damage Detection Algorithm**
   Developed a mesh-hole grouping algorithm to detect irregular damages in aquaculture nets, minimizing perspective distortion in underwater environments.
