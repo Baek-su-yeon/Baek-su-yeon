@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Pycharm-000000?&style=for-the-badge&logo=python&logoColor=white" />
 
 ## ✨ **Interests**  
-- Computer Vision & AI Deployment
+- Computer Vision & AI
 
 
 ## 📫 **Connect with me**
